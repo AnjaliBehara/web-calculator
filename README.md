@@ -1,2 +1,2 @@
-# PortfolioProject
-My personal portfolio showcasing my skills and projects in development.
+Web-calcuator
+A simple  and beautiful Web-calculator with HTML and CSS.
